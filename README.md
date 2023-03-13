@@ -34,7 +34,7 @@ The process of obtaining our permission is no different from any other request f
 ```
 
 Next, during the execution of the application, you must send a request for our permission. You can do this in many ways:
-the old-fashioned way through onActivityResult, through the [Activity Result Api](https://developer.android.com/training/basics/intents/result), or if you use compose through the [accompanist library](https://google.github.io/accompanist/permissions/) (they in alpha)
+the old-fashioned way through onActivityResult, through the [Activity Result Api](https://developer.android.com/training/basics/intents/result), or if you use compose through the [accompanist library](https://google.github.io/accompanist/permissions/) (it in alpha)
 
 It will look like this
 
